@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mustav_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# khizex_mustav
+Mustav mobile App engineering assignment
+>>>>>>> 7f58bb34d040b9df0c1868eed10d113cba1b78a9
